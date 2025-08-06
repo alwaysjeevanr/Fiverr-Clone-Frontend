@@ -30,10 +30,13 @@ A modern React-based frontend for a Fiverr-like freelance marketplace. This proj
 ### Installation
 
 1. **Clone the repository:**
+
    ```powershell
-   git clone <your-repo-url>
-   cd fiverr-clone/client
+   git clone https://github.com/alwaysjeevanr/Fiverr-Clone-Frontend.git
+   cd Fiverr-Clone-Frontend
+
    ```
+
 2. **Install dependencies:**
    ```powershell
    npm install
