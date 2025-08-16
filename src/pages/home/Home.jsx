@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import React from "react";
 import "./Home.scss";
 import Featured from "../../components/featured/Featured";
@@ -172,7 +173,7 @@ function Home() {
             </div>
 
             <div className="title">
-              <img src="./img/check.png" alt="" />
+              <img src="./img/check.png" alt="io" />
               Manage teamwork and boost productivity with one powerful workspace
             </div>
             <button>Explore Fiverr Business</button>
